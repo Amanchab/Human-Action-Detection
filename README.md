@@ -11,10 +11,10 @@ The Human Violence Detection project is an innovative system designed to detect 
 1. Real-time Detection:
 Utilizing advanced computer vision algorithms, the system can promptly identify instances of violence as they occur. The camera continuously captures frames and processes them in real-time to detect violent behavior, ensuring immediate recognition and response.
 
-![ezgif-1-424c5f531b](https://github.com/JAChesney/Human-Action-Detection/assets/31696974/489aa523-2372-4761-8f45-2a4577a8acc4)
-
 3. Frame-by-Frame Analysis:
 Each frame captured by the camera undergoes meticulous analysis to assess the presence of violent actions. By evaluating sequences of frames within a buffer, the system employs a comprehensive approach to confirm the occurrence of violence before triggering an alert.
 
-4. Telegram Bot Integration:
+![ezgif com-crop](https://github.com/JAChesney/Human-Action-Detection/assets/31696974/0087e455-2c84-4ab6-93b0-2dbdf3ed1372)
+
+5. Telegram Bot Integration:
 Upon detecting a violent frame or a series of frames indicating violence, the system uploads the identified frame(s) to a connected Telegram bot. This bot serves as a direct communication channel to a designated security firm or relevant authorities. The automated alerting mechanism enables swift notification and response to potential threats or incidents.
